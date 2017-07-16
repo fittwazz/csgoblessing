@@ -45,3 +45,4 @@ Send actual money through PayPal here.
 Send Bitcoin to this address: 1GqszRekcjuUTARfXiroMnPoytRJWdk66A
 Send Dogecoin to this address: DMWd9PLkDyQqEaQnoCWHi8EFDv2biD4AcS
 If you are sending skins or money through PayPal, and would like to be recognized for your donation on our donations page, please add your name to the trade offer message or field on PayPal.
+ 
